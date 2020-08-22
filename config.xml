@@ -4,5 +4,5 @@
   <name>Tidal Volume Calculator</name>
   <description>App for calculating ventilator tidal volume for an adult</description>
   <author href="https://build.phonegap.com" email="support@phonegap.com">BuffBass</author>
-  <?icon <icon src="icon.png" >/?>
+  <icon src="icon.png" />
 </widget>
